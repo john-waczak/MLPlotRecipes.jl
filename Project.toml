@@ -1,0 +1,13 @@
+name = "MLPlotRecipes"
+uuid = "3c4b863f-6cc4-44b3-a1c7-639daf546d2d"
+authors = ["John Waczak <john.louis.waczak@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
